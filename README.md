@@ -7,7 +7,7 @@
     <li> アニメファン </li>
 </ul>
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/053/010/388.gif">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Deepzirox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Deepzirox/Deepzirox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
