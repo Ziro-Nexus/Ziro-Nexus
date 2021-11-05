@@ -8,3 +8,4 @@ skills = {
   DevOps: ["Linux", "Server administration"]
 }
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepzirox&show_icons=true&theme=radical)
