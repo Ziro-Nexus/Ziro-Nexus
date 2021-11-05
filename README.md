@@ -1,5 +1,5 @@
 # Software Developer and gamer 🎮👨‍💻
-I am a software developer from Medellin Colombia, my main focus is web, but i enjoy low level programming and game development with Unity ;)
+I am a software developer from Medellin Colombia, my main focus is web, but i enjoy low level programming and backend stuff
 ```javascript
 skills = {
   lowLevel: ["C", "Rust"],
