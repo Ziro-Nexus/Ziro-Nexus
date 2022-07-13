@@ -1,5 +1,6 @@
-# Software Developer and gamer 🎮👨‍💻
-I am a software developer from Medellin Colombia, my main focus is web, but i enjoy low level programming and backend stuff
+# Software Developer and gamer  🎮👨‍💻
+I am a software developer from Medellin Colombia, my main focus is web, but i enjoy low level programming and backend stuff.
+Currently writing Rust and learning Zig
 ```javascript
 skills = {
   lowLevel: ["C", "Rust"],
