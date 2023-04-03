@@ -1,11 +1,11 @@
-# Software Developer and gamer  🎮👨‍💻
+# Software developer and system engineer.
 I am a software developer from Medellin Colombia, my main focus is system programming, but i enjoy web and backend stuff too.
-Currently writing Rust and learning Zig
+Currently writing Rust, React and C#
 ```javascript
 skills = {
   lowLevel: ["C", "Rust"],
-  WebFrontend : ["HTML", "CSS", "Javascript", "Angular"],
-  WebBackend: ["Python", "Go", "Node js"],
+  WebFrontend : ["HTML", "CSS", "Javascript", "React", "NextJs"],
+  WebBackend: ["Python", "Go", "Node js", "C#"],
   DevOps: ["Linux", "Server administration"]
 }
 ```
