@@ -3,8 +3,8 @@
 ```javascript
 skills = {
   lowLevel: ["C", "Rust"],
-  WebFrontend : ["HTML", "CSS", "Javascript", "React", "NextJs"],
-  WebBackend: ["Python", "Go", "Node js", "C#"],
+  WebFrontend : ["HTML", "CSS", "Javascript", "Angular", "NextJs"],
+  WebBackend: ["Python", "Rust", "Node js", "C#"],
   DevOps: ["Linux", "Server administration"]
 }
 ```
